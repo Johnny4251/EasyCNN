@@ -1,2 +1,6 @@
 # EasyCNN
-WIP - way for me easily make CNN models into future projects
+Very simple way to create CNN models in python
+
+# Example
+See example.py for a usage example
+
